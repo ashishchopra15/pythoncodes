@@ -5,6 +5,9 @@ d=a-b
 e=a/b
 f=a*b
 PRINT "DHINKA cHika"
+
+print "ankit ki maa ka"
+print "ankit sala chaprasi"
 print "sum = " + str(c)
 print "subtract = " + str(d)
 print "multiply = " + str(f)
